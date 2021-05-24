@@ -1,1 +1,1 @@
-# ml_diaetes_ertos
+# ml_diabetes_ertos
